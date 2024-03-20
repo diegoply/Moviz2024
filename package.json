@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.72.0",
+    "sass-loader": "^14.1.1"
+  }
+}
